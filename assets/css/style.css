@@ -365,3 +365,6 @@ html {
     font-size: 25px;
 }
 
+#social-net i:hover {
+    opacity: 0.4;
+}
